@@ -1,0 +1,30 @@
+html {
+	font-size: 10px;
+	font-family: "Open Sans", sans-serif;
+	background-color: #addbed;
+}
+
+body {
+	margin: 0 auto;
+}
+
+hr {
+	background-color: white;
+	margin: 0 auto
+}
+
+h1 {
+	font-size: 60px;
+	color: white;
+	margin: 0;
+	padding: 20px 0;
+	background-image: linear-gradient(to right, red, yellow);
+	text-align: center;
+	text-shadow: 3px 3px 1px black;
+}
+
+p,li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
