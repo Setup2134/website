@@ -13,7 +13,7 @@ myImage.onclick = () => {
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
 
-function setUserName() {
+/* function setUserName() {
 	let myName = prompt('Please enter your name.');
 	if(!myName) {
 		setUserName();
@@ -32,4 +32,4 @@ if(!localStorage.getItem('name')) {
 
 myButton.onclick = function() {
 	setUserName();
-}
+} */
